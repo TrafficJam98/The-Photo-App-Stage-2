@@ -1,7 +1,8 @@
 # The PhotoApp Stage 2
 
-
 This project is an extension to stage 1. I injected a web service tier between the Python-based client and the AWS services. Below is a relation graph of this project:
+
+![alt text](https://github.com/TrafficJam98/The-Photo-App-Stage-2/blob/main/README_pic1.png?raw=true)
 
 The web service will be written in JavaScript using Node.js and the Express framework. The client is still Python-based, rewritten to interact with the web service instead of AWS directly. The database and S3 bucket remain the same from stage 1. Below were some major steps I took in this project:
 
