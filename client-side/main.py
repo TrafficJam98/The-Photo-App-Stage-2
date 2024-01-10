@@ -3,13 +3,6 @@
 # web service, which in turn uses AWS S3 and RDS to implement
 # a simple photo application for photo storage and viewing.
 #
-# Project 02 for CS 310
-#
-# Authors:
-#   Prof. Joe Hummel (Solution)
-#   Northwestern University
-#   CS 310
-#
 
 import requests  # calling web service
 import jsons  # relational-object mapping
